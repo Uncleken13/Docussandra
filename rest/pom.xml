@@ -117,7 +117,7 @@
         <dependency>
             <groupId>com.strategicgains.plugin-express</groupId>
             <artifactId>StateChangePlugin</artifactId>
-            <version>0.3.0</version>
+            <version>0.3.3</version>
         </dependency>   
     </dependencies>
 
