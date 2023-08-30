@@ -17,7 +17,7 @@
         <dependency>
             <groupId>com.strategicgains</groupId>
             <artifactId>Syntaxe</artifactId>
-            <version>0.4.9</version>
+            <version>0.4.10</version>
         </dependency>
         <dependency>
             <groupId>com.strategicgains</groupId>
